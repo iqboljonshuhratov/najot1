@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import React from 'react'
 
 export const metadata:Metadata = {
-    title: 'About',
-    description: 'About page',
+    title: 'Iqboljon',
+    description: 'Biznesmen',
     openGraph: {
         images: ["/public/img/cat.jpg"],
     }
