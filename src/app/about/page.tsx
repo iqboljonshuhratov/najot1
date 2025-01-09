@@ -5,7 +5,7 @@ export const metadata:Metadata = {
     title: 'Iqboljon',
     description: 'Biznesmen',
     openGraph: {
-        images: ["/public/img/cat.jpg"],
+        images: "/img/cat.jpg",
     }
 }
 
